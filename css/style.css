@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Akronim|Kaushan+Script');
+
+.uno {
+  font-family: 'Kaushan Script', cursive;
+}
+
+.dos {
+  font-family: 'Akronim', cursive;
+}
+
+p {
+  font-size: 3rem;
+  text-shadow: 2px 2px 5px orange,
+    1px 1px 15px red,
+    3px 3px 20px purple,
+    5px 5px 2px blue;
+}
